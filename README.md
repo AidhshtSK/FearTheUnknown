@@ -10,9 +10,17 @@ https://github.com/user-attachments/assets/f6628380-f469-4a30-b892-cf4985683385
 
 
 
+https://github.com/user-attachments/assets/450dde19-9323-4d39-b081-09ecd4040aaf
+
+
+
 # first attempt in code with different PNGS:
 
 https://github.com/user-attachments/assets/e11074f4-69c8-434d-a90f-b1c25d30eb50
+
+
+https://github.com/user-attachments/assets/2056b2a5-cc8e-45e6-9999-f398842bf1d9
+
 
 
 # How I made it:
