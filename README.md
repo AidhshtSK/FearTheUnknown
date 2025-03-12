@@ -42,3 +42,11 @@ design)
 ![image](https://github.com/user-attachments/assets/a800f1f1-5fa6-4612-87aa-434f1f81a42f)
 
 
+# The character
+
+I wanted to embody the humanoid but convey the feeling of having unrecognizable bodily features and have a lack emotion in facial expression. The proportions of the entity must make the player
+feel like the entity is big, strong, and somewhat creepy in order for them to assume that they are in danger when ever they see it.
+
+![image](https://github.com/user-attachments/assets/013feefd-4f34-4837-a62c-1cef0e599629)
+
+
