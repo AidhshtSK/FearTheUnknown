@@ -1,5 +1,5 @@
 # FearTheUnknown
-Skript Interpretation of Analog Horror jumpscares that hurt the heart when triggering the effect. Seizure warning. SOUND ON.
+Skript Interpretation of Analog Horror jumpscares that hurts the heart when triggering the effect. Seizure warning. SOUND ON.
 
 
 # Final Product(see attempts below):
